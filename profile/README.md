@@ -11,3 +11,6 @@ Programming Repo > https://github.com/Mira438/crystalized <br>
 [TotallyNoCallum](https://github.com/TotallyNoCallum) - Resource Pack Programmer, Pixel Artist, 3D Modeler, Ported Crystalized to Bedrock Edition <br>
 MiteDA - Pixel Artist, 3D Modeler<br>
 Abbymcraft - Builder, Did a 3d Model
+
+# Socials
+Discord Server: https://discord.gg/4H8ADwFZyk
