@@ -2,7 +2,8 @@ Project Crystalized is an open source minecraft server heavily inspired by TubNe
 
 Java Resource Pack > https://github.com/Project-Crystalized/Java-RP <br>
 Bedrock Resources > https://github.com/Project-Crystalized/Bedrock-RP <br>
-Programming Repo > https://github.com/Mira438/crystalized <br>
+
+LiteStrike Plugin > https://github.com/Project-Crystalized/litestrike-game <br>
 
 # Contributers:
 [LadyCat](https://github.com/LadyCattv) - Admin, Programmer <br>
