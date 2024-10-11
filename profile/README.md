@@ -11,7 +11,7 @@ LiteStrike Plugin > https://github.com/Project-Crystalized/litestrike-game <br>
 [Cooltexture](https://github.com/cooltexture1) - Programmer <br>
 [TotallyNoCallum](https://github.com/TotallyNoCallum) - Resource Pack Programmer, Pixel Artist, 3D Modeler, Ported Crystalized to Bedrock Edition <br>
 MiteDA - Pixel Artist, 3D Modeler<br>
-Abbymcraft - Builder, Did a 3d Model
+Abbymcraft - Builder, 3D Modeler
 
 # Socials
 Discord Server: https://discord.gg/4H8ADwFZyk
