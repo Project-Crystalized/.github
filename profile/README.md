@@ -7,11 +7,14 @@ LiteStrike Plugin > https://github.com/Project-Crystalized/litestrike-game <br>
 
 # Contributers:
 [LadyCat](https://github.com/LadyCattv) - Admin, Programmer <br>
-[\_\_\_Mira\_\_\_](https://github.com/Mira438) - Admin <br>
+[\_\_\_Mira\_\_\_](https://github.com/Mira438) - Admin, Did 1 retexture for the packs <br>
 [Cooltexture](https://github.com/cooltexture1) - Programmer <br>
 [TotallyNoCallum](https://github.com/TotallyNoCallum) - Resource Pack Programmer, Pixel Artist, 3D Modeler, Ported Crystalized to Bedrock Edition <br>
-MiteDA - Pixel Artist, 3D Modeler<br>
-Abbymcraft - Builder, 3D Modeler
+MiteDA - Pixel Artist, 3D Modeler <br>
+Abbymcraft - Builder, 3D Modeler <br>
+Augustify - Did 1 retexture for the packs <br>
+Sh4d0w - Did 1 retexture for the packs <br>
+DaeiraDee - Logo Designer
 
 # Socials
 Discord Server: https://discord.gg/4H8ADwFZyk
