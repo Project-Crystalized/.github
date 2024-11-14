@@ -5,6 +5,7 @@ Bedrock Resources > https://github.com/Project-Crystalized/Bedrock-RP <br>
 
 Crystalized Essentials > https://github.com/Project-Crystalized/crystalized-essentials <br>
 LiteStrike Plugin > https://github.com/Project-Crystalized/litestrike-game <br>
+Knockoff Plugin > https://github.com/Project-Crystalized/knockoff-game <br>
 
 # Contributers:
 [LadyCat](https://github.com/LadyCattv) - Admin, Programmer <br>
