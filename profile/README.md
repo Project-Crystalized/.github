@@ -6,6 +6,8 @@ Bedrock Resources > https://github.com/Project-Crystalized/Bedrock-RP <br>
 Velocity Plugin > https://github.com/Project-Crystalized/velocity_plugin <br>
 Crystalized Essentials > https://github.com/Project-Crystalized/crystalized-essentials <br>
 Lobby plugin > https://github.com/Project-Crystalized/lobby_plugin <br>
+Botanica > https://github.com/Project-Crystalized/botanica <br>
+
 LiteStrike Plugin > https://github.com/Project-Crystalized/litestrike-game <br>
 Knockoff Plugin > https://github.com/Project-Crystalized/knockoff-game <br>
 
