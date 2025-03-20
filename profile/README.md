@@ -16,11 +16,12 @@ Knockoff Plugin > https://github.com/Project-Crystalized/knockoff-game <br>
 [\_\_\_Mira\_\_\_](https://github.com/Mira438) - Admin, Did 1 retexture for the packs <br>
 [Cooltexture](https://github.com/cooltexture1) - Programmer <br>
 [TotallyNoCallum](https://github.com/TotallyNoCallum) - Programmer (sort of), Resource Pack Programmer, Pixel Artist, 3D Modeler, Ported Crystalized to Bedrock Edition <br>
+[mrickets](https://github.com/crickira) - litestrike & weapon designing <br>
 MiteDA - Pixel Artist, 3D Modeler <br>
 Abbymcraft - Builder, 3D Modeler <br>
 Augustify - Did 1 retexture for the packs <br>
 Sh4d0w - Did 1 retexture for the packs <br>
-DaeiraDee - Logo Designer
+DaeiraDee - Logo Designer <br> 
 
 # Socials
 Discord Server: https://discord.gg/4H8ADwFZyk
