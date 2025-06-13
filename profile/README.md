@@ -30,9 +30,10 @@ MiteDA - Pixel Artist, 3D Modeler <br>
 Abbymcraft - Builder, 3D Modeler, French Translations <br>
 Thejoeybug - Builder, 3D Modeler <br>
 ghostaffinity - Hindi Translations <br>
-Augustify - Did 1 retexture for the packs <br>
+Augustify - 3D Modeler <br>
 Sh4d0w - Did 1 retexture for the packs <br>
 DaeiraDee - Logo Designer <br> 
 
 # Socials
-Discord Server: https://discord.gg/4H8ADwFZyk
+Discord Server: https://discord.gg/4H8ADwFZyk <br>
+Bluesky: projectcrystalized.bsky.social <br>
