@@ -14,6 +14,10 @@ Botanica > https://github.com/Project-Crystalized/botanica <br>
 LiteStrike Plugin > https://github.com/Project-Crystalized/litestrike-game <br>
 Knockoff Plugin > https://github.com/Project-Crystalized/knockoff-game <br>
 Crystal Blitz > https://github.com/Project-Crystalized/crystalblitz-game <br>
+Battle Royale > https://github.com/Project-Crystalized/battle-royale-game <br>
+
+Todo List > https://github.com/orgs/Project-Crystalized/projects/1/views/1 <br>
+> Note this is not the full todo list, some developers use their OS's notepad <br>
 
 # Contributers:
 [LadyCat](https://github.com/LadyCattv) - Admin, Programmer, German Translations <br>
