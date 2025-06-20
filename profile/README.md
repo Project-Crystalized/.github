@@ -3,6 +3,8 @@ Project Crystalized is an open source minecraft server heavily inspired by TubNe
 (!) Notice:
 > We have not released the server yet, but this organisation contains source code for everything we have. Feel free to ask questions in our Discord :D (linked in our socials at the bottom of this readme)
 
+Wiki > https://github.com/Project-Crystalized/.github/wiki <br>
+
 Java Resource Pack > https://github.com/Project-Crystalized/Java-RP <br>
 Bedrock Resources > https://github.com/Project-Crystalized/Bedrock-RP <br>
 
