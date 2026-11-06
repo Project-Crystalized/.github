@@ -22,7 +22,6 @@ Todo List > https://github.com/orgs/Project-Crystalized/projects/1/views/1 <br>
 # Contributers:
 [LadyCat](https://github.com/LadyCattv) - Admin, 2D texture artist, Programmer, German Translations <br>
 ZestyZane - Admin, 3D Modeler, Builder
-[Cooltexture](https://github.com/cooltexture1) - Programmer <br>
 [mrickets](https://github.com/crickira) - 2D texture artist, litestrike & weapon designing <br>
 Thejoeybug - Builder, 3D Modeler <br>
 Augustify - 3D Modeler, 2D Texture artist <br>
